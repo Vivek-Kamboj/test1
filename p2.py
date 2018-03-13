@@ -11,4 +11,6 @@ f = open('path/location','w')
 #owjopwjdpokp
 
 
+
+
 f.close()
