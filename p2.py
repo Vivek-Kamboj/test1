@@ -6,4 +6,6 @@ f = open('path/location','w')
 	password = password + '\n'
 	f.write(password)
 
+#ankit tarun
+
 f.close()
