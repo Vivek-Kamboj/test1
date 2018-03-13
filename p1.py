@@ -19,4 +19,11 @@ for i in range(times):
 	f.write(password)
 
 f.close()
+<<<<<<< HEAD
 #jdkslwmlmjdosjdjj;dl
+=======
+#jdkslwmlmk
+
+tarun 
+ankit
+>>>>>>> a03449b71b782b2a670bba93e13f2a15e67776b3
