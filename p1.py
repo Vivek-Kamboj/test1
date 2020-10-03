@@ -3,7 +3,7 @@ import random
 
 chars = '''ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789,./;'[]!@#$%^&*()_+~\|:"<>?'''  // All the characters 
 times = int(input('[.]Number of passwords?\n[.]'))  // No of times
-length = int(input('[.]Password length?\n[.]'))  // lenght
+length = int(input('[.]Password length?\n[.]'))  // length
 
 f = open('password.txt','w')
 
